@@ -1,0 +1,31 @@
+<meta>
+    <!-- Metadata -->
+    <info name="Barrel Launch" author="Rhytz" type="script" version="1.0.0" />
+	<oop>true</oop>
+    <!-- Clientside -->
+    <script src="client.lua" type="client"></script>
+    
+    <!-- Serverside -->
+	<script src="server.lua" type="server"></script>
+    
+    <!-- Assets 
+    <file src="assets/sounds/shuffle.mp3"></file>
+    <file src="assets/sounds/boost.mp3"></file>
+    <file src="assets/sounds/barreldrop.mp3"></file>
+    <file src="assets/sounds/mine.mp3"></file>
+    <file src="assets/sounds/thud.mp3"></file>
+	<file src="assets/sounds/weight.mp3"></file>
+	<file src="assets/sounds/invinc.mp3"></file>
+	<file src="assets/sounds/off.mp3"></file>
+	
+    <file src="assets/images/barrels.png"></file>
+    <file src="assets/images/rockets.png"></file>
+    <file src="assets/images/ramps.png"></file>
+    <file src="assets/images/mines.png"></file>
+    <file src="assets/images/maxweight.png"></file>
+    <file src="assets/images/invincibility.png"></file>
+    <file src="assets/images/boost.png"></file>
+    <file src="assets/images/keyboard_key_shift.png"></file>
+	<file src="assets/images/keyboard_key_z.png"></file>
+	-->
+</meta>
